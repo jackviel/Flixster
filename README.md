@@ -26,7 +26,7 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/2eRF16R.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Link [here](https://i.imgur.com/2eRF16R.gif) if gif doesn't work.
 
