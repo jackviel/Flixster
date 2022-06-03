@@ -34,7 +34,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Had issues in the beginning completely understanding structure of the project but by the same 
+Had issues in the beginning completely understanding structure of the project but by the the second day with research, trial, and error I ended up understanding everything.
 
 ## Open-source libraries used
 
