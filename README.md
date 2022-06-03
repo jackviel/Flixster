@@ -30,8 +30,6 @@ Here's a walkthrough of implemented user stories:
 
 Link [here](https://i.imgur.com/2eRF16R.gif) if gif doesn't work.
 
-![gif](https://i.imgur.com/2eRF16R.gif)
-
 GIF created with [Kap](https://getkap.co/).
 
 ## Notes
